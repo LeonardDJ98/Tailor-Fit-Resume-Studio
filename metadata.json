@@ -1,0 +1,8 @@
+{
+  "name": "TailorFit Resume Studio",
+  "description": "Store your resume information, tailor resumes and full applications to any job description with one click, and optimize your qualifications for ATS match.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
